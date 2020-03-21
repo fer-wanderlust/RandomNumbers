@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RandomNumbers/static/css/main.5f361e03.chunk.css",
+    "main.js": "/RandomNumbers/static/js/main.9a8c14a4.chunk.js",
+    "main.js.map": "/RandomNumbers/static/js/main.9a8c14a4.chunk.js.map",
+    "runtime-main.js": "/RandomNumbers/static/js/runtime-main.5b7563dc.js",
+    "runtime-main.js.map": "/RandomNumbers/static/js/runtime-main.5b7563dc.js.map",
+    "static/js/2.79d826a3.chunk.js": "/RandomNumbers/static/js/2.79d826a3.chunk.js",
+    "static/js/2.79d826a3.chunk.js.map": "/RandomNumbers/static/js/2.79d826a3.chunk.js.map",
+    "index.html": "/RandomNumbers/index.html",
+    "precache-manifest.07a63e9752a0be49cf7a8ac4afccddb3.js": "/RandomNumbers/precache-manifest.07a63e9752a0be49cf7a8ac4afccddb3.js",
+    "service-worker.js": "/RandomNumbers/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/RandomNumbers/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.79d826a3.chunk.js.LICENSE.txt": "/RandomNumbers/static/js/2.79d826a3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/RandomNumbers/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b7563dc.js",
+    "static/js/2.79d826a3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9a8c14a4.chunk.js"
+  ]
+}
